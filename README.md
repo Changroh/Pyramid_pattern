@@ -9,10 +9,13 @@ This project prints a pyramid pattern of stars (`*`) based on the number of rows
 3. Open a terminal and navigate to the project directory.
 4. Run the following command:
 
+   ```bash
    go run main.go
+   ```
 
 ## Usage Example
 
+```
 Enter number of rows: 5
 
 Pyramid pattern for 5 rows:
@@ -22,6 +25,7 @@ Pyramid pattern for 5 rows:
   ***
  ****
 *****
+```
 
 ## Requirements
 
@@ -35,5 +39,4 @@ Pyramid pattern for 5 rows:
 
 ## Author
 
-- Changroh collins
-
+-Changroh Collins
